@@ -3,8 +3,8 @@
 return [
     'baseUrl' => '',
     'production' => false,
-    'siteName' => 'Docs Starter Template',
-    'siteDescription' => 'Beautiful docs powered by Jigsaw',
+    'siteName' => 'Formation Toiletteur Canin',
+    'siteDescription' => 'Tout sur la formation au toilettage canin',
 
     // Algolia DocSearch credentials
     'docsearchApiKey' => '',

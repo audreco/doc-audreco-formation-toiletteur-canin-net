@@ -1,14 +1,22 @@
 <?php
 
 return [
-    'Getting Started' => [
+    'Documentation Complète' => [
         'url' => 'docs/getting-started',
         'children' => [
-            'Customizing Your Site' => 'docs/customizing-your-site',
-            'Navigation' => 'docs/navigation',
-            'Algolia DocSearch' => 'docs/algolia-docsearch',
-            'Custom 404 Page' => 'docs/custom-404-page',
+            'Métier' => 'docs/getting-started/#metier',
+            'Généralités' => 'docs/getting-started/#general',
+            'Ergonomie' => 'docs/getting-started/#ergonomie',
+            'Zoocosmetologie' => 'docs/getting-started/#zoocosmetologie',
+            'Cynophilie' => 'docs/getting-started/#cynophilie',
+            'Esthétique' => 'docs/getting-started/#esthetique',
+            'Gestion' => 'docs/getting-started/#gestion',
+            'Comportement' => 'docs/getting-started/#comportement',
+            'Pratique' => 'docs/getting-started/#pratique',
+            'Centre de Formation' => 'docs/getting-started/#centre-formation',
+            'Diplôme' => 'docs/getting-started/#diplome',
+            'Certificat' => 'docs/getting-started/#certificat',
+            'Organismes' => 'docs/getting-started/#organismes',
         ],
     ],
-    'Jigsaw Docs' => 'https://jigsaw.tighten.co/docs/installation',
 ];
