@@ -1,8 +1,8 @@
 <?php
 
 return [
-    'Documentation Complète' => [
-        'url' => 'docs/getting-started',
+    'Formation Toiletteur Canin' => [
+        'url' => 'docs/formation-toiletteur-canin',
         'children' => [
             'Métier' => 'docs/getting-started/#metier',
             'Généralités' => 'docs/getting-started/#general',
