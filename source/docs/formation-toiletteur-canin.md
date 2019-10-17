@@ -103,7 +103,7 @@ C'est dire qu'aujourd'hui, pour un toiletteur, se limiter aux tontes,
 coupes, ou épilations, est devenu parfaitement irréaliste.
 
 ![Formation toiletteur canin : le caniche n\'est plus tellement au goût
-du jour](assets/images/1-toiletteur-canin-caniche.png)
+du jour](../assets/images/1-toiletteur-canin-caniche.png)
 
 Formation toiletteur canin canin : le caniche, plus tellement au goût du
 jour !
@@ -333,7 +333,7 @@ qui se révéleront particulièrement dommageables :
     régulier de qualité.
 
 ![Formation toilettage canin : gestuelle des
-ciseaux](assets/images/2-formation-toiletteur-canin-ciseaux.jpeg)
+ciseaux](../assets/images/2-formation-toiletteur-canin-ciseaux.jpeg)
 
 Formation toilettage canin : Une formation sérieuse devra prendre en
 compte pour une large part, sinon pour une part essentielle, cet
@@ -360,7 +360,7 @@ physiologie, n'auront évidemment plus de secrets pour vous.
 Vous comprendrez en particulier les règles régissant la kératine, ce
 constituant principal des pelages (comme des cheveux...).
 
-![](assets/images/3-formation-toiletteur-canin-poil.png)
+![](../assets/images/3-formation-toiletteur-canin-poil.png)
 
 Formation toilettage canin : à l'issue de la formation, les fonctions de
 la peau et du pelage...
@@ -639,7 +639,7 @@ Cette initiation est ensuite complétée et élargie par des stages
 pratiques dans des entreprises de toilettage.
 
 ![formation toiletteur canin : un atelier de
-toilettage](assets/images/4-formation-toiletteur-canin-atelier-toilettage.jpeg)
+toilettage](../assets/images/4-formation-toiletteur-canin-atelier-toilettage.jpeg)
 
 Formation toiletteur canin : la formation pratique dans un lieu
 « dédié »
@@ -735,7 +735,7 @@ conditions préalables :
 --------------------------------------------------------------
 
 ![formation toiletteur canin : diplôme certificat toiletteur
-canin](assets/images/5-certificat-toiletteur-canin.png)
+canin](../assets/images/5-certificat-toiletteur-canin.png)
 
 Formation toiletteur canin : le **Certificat de Toiletteur Canin** est
 une certification dite R.N.C.P., inscrite au répertoire.

@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="576297b3-7e02-4062-860c-92e992693e38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/source/docs/formation-toiletteur-canin.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/navigation.php" beforeDir="false" afterPath="$PROJECT_DIR$/navigation.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_layouts/master.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/_layouts/master.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/source/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/docs/formation-toiletteur-canin.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/docs/formation-toiletteur-canin.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,8 +70,8 @@
         <entry file="file://$PROJECT_DIR$/source/docs/formation-toiletteur-canin.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="728">
-                <caret line="119" column="9" selection-start-line="119" selection-start-column="9" selection-end-line="119" selection-end-column="9" />
+              <first_editor relative-caret-position="-1768">
+                <caret line="737" column="10" selection-start-line="737" selection-start-column="10" selection-end-line="737" selection-end-column="10" />
               </first_editor>
               <second_editor />
             </state>
@@ -91,6 +89,7 @@
         <option value="$PROJECT_DIR$/source/_layouts/master.blade.php" />
         <option value="$PROJECT_DIR$/source/index.blade.php" />
         <option value="$PROJECT_DIR$/navigation.php" />
+        <option value="$PROJECT_DIR$/source/docs/formation-toiletteur-canin.md" />
       </list>
     </option>
   </component>
@@ -181,6 +180,30 @@
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="doc-audreco-formation-toiletteur-canin-net" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doc-audreco-formation-toiletteur-canin-net" type="462c0819:PsiDirectoryNode" />
+              <item name="build_local" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doc-audreco-formation-toiletteur-canin-net" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doc-audreco-formation-toiletteur-canin-net" type="462c0819:PsiDirectoryNode" />
+              <item name="build_local" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="formation-toiletteur-canin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doc-audreco-formation-toiletteur-canin-net" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doc-audreco-formation-toiletteur-canin-net" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doc-audreco-formation-toiletteur-canin-net" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doc-audreco-formation-toiletteur-canin-net" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -188,6 +211,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../formation-toiletteur-canin.net" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -220,15 +244,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571320903870</updated>
-      <workItem from="1571320905079" duration="3179000" />
+      <workItem from="1571320905079" duration="3886000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3179000" />
+    <option name="totallyTimeSpent" value="3886000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
@@ -311,8 +336,8 @@
     <entry file="file://$PROJECT_DIR$/source/docs/formation-toiletteur-canin.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="728">
-            <caret line="119" column="9" selection-start-line="119" selection-start-column="9" selection-end-line="119" selection-end-column="9" />
+          <first_editor relative-caret-position="-1768">
+            <caret line="737" column="10" selection-start-line="737" selection-start-column="10" selection-end-line="737" selection-end-column="10" />
           </first_editor>
           <second_editor />
         </state>
