@@ -40,7 +40,7 @@
     </head>
 
     <body class="flex flex-col justify-between min-h-screen bg-gray-100 text-gray-800 leading-normal font-sans">
-        <header class="flex items-center shadow bg-white border-b h-24 py-4" role="banner">
+        <header class="flex items-center shadow bg-white border-b h-24 py-4" role="banner" style="position: fixed; top: 0; left: 0; width: 100%;">
         <!-- <header class="flex items-center shadow bg-white border-b h-24 mb-8 py-4" role="banner"> -->
             <div class="container flex items-center max-w-8xl mx-auto px-4 lg:px-8">
                 <div class="flex items-center">

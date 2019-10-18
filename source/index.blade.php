@@ -6,7 +6,7 @@
 
 </section>
 <section class="container max-w-6xl mx-auto px-6 py-10 md:py-12">
-    <div class="sm:w-4/5 mx-auto relative bg-white text-center rounded z-10 shadow-lg-soft">
+    <div class="sm:w-4/5 mx-auto bg-white text-center rounded shadow-lg-soft">
         <div class="flex -mx-2 mb-10 lg:flex-row lg:mb-24 justify-center">
         <!-- <div class="flex -mx-2 flex-col-reverse mb-10 lg:flex-row lg:mb-24"> -->
             <div class="mt-8 px-2 flex-1 text-center">
