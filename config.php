@@ -4,7 +4,7 @@ return [
     'baseUrl' => 'https://formation-toiletteur-canin.net',
     'production' => true,
     'siteName' => 'Formation Toiletteur Canin - Tout savoir sur la formation de toiletteur canin',
-    'siteDescription' => 'Tout sur la formation de toiletteur canin - Tout savoir sur la formation de toiletteur canin : quelles formations en toilettage canin ? quels programmes ? quelles méthodes ? quels sont les points essentiels à observer ?',
+    'siteDescription' => 'Tout savoir sur la formation de toiletteur canin : quelles formations en toilettage canin ? quels programmes ? quelles méthodes ? quels sont les points essentiels à observer ?',
 
     // Algolia DocSearch credentials
     'docsearchApiKey' => '',
