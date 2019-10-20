@@ -36,8 +36,8 @@
         <entry file="file://$PROJECT_DIR$/source/docs/formation-toiletteur-canin.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="814">
-                <caret line="821" column="75" selection-start-line="821" selection-start-column="75" selection-end-line="821" selection-end-column="75" />
+              <first_editor relative-caret-position="296">
+                <caret line="737" column="19" selection-start-line="737" selection-start-column="13" selection-end-line="737" selection-end-column="19" />
               </first_editor>
               <second_editor />
             </state>
@@ -53,6 +53,7 @@
       <find>toiole</find>
       <find>toioletteur</find>
       <find>/docs/formation-toioletteur-canin/</find>
+      <find>assets</find>
     </findStrings>
     <replaceStrings>
       <replace>/docs/formation-toiletteur-canin/</replace>
@@ -203,12 +204,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571320903870</updated>
-      <workItem from="1571320905079" duration="9294000" />
+      <workItem from="1571320905079" duration="9622000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9294000" />
+    <option name="totallyTimeSpent" value="9622000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
@@ -333,8 +334,8 @@
     <entry file="file://$PROJECT_DIR$/source/docs/formation-toiletteur-canin.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="814">
-            <caret line="821" column="75" selection-start-line="821" selection-start-column="75" selection-end-line="821" selection-end-column="75" />
+          <first_editor relative-caret-position="296">
+            <caret line="737" column="19" selection-start-line="737" selection-start-column="13" selection-end-line="737" selection-end-column="19" />
           </first_editor>
           <second_editor />
         </state>

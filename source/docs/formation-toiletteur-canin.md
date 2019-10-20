@@ -103,7 +103,7 @@ C'est dire qu'aujourd'hui, pour un toiletteur, se limiter aux tontes,
 coupes, ou épilations, est devenu parfaitement irréaliste.
 
 ![Formation toiletteur canin : le caniche n\'est plus tellement au goût
-du jour](../assets/images/1-toiletteur-canin-caniche.png)
+du jour](../../assets/images/1-toiletteur-canin-caniche.png)
 
 Formation toiletteur canin canin : le caniche, plus tellement au goût du
 jour !
@@ -333,7 +333,7 @@ qui se révéleront particulièrement dommageables :
     régulier de qualité.
 
 ![Formation toilettage canin : gestuelle des
-ciseaux](../assets/images/2-formation-toiletteur-canin-ciseaux.jpeg)
+ciseaux](../../assets/images/2-formation-toiletteur-canin-ciseaux.jpeg)
 
 Formation toilettage canin : Une formation sérieuse devra prendre en
 compte pour une large part, sinon pour une part essentielle, cet
@@ -360,7 +360,7 @@ physiologie, n'auront évidemment plus de secrets pour vous.
 Vous comprendrez en particulier les règles régissant la kératine, ce
 constituant principal des pelages (comme des cheveux...).
 
-![](../assets/images/3-formation-toiletteur-canin-poil.png)
+![](../../assets/images/3-formation-toiletteur-canin-poil.png)
 
 Formation toilettage canin : à l'issue de la formation, les fonctions de
 la peau et du pelage...
@@ -639,7 +639,7 @@ Cette initiation est ensuite complétée et élargie par des stages
 pratiques dans des entreprises de toilettage.
 
 ![formation toiletteur canin : un atelier de
-toilettage](../assets/images/4-formation-toiletteur-canin-atelier-toilettage.jpeg)
+toilettage](../../assets/images/4-formation-toiletteur-canin-atelier-toilettage.jpeg)
 
 Formation toiletteur canin : la formation pratique dans un lieu
 « dédié »
@@ -735,7 +735,7 @@ conditions préalables :
 --------------------------------------------------------------
 
 ![formation toiletteur canin : diplôme certificat toiletteur
-canin](../assets/images/5-certificat-toiletteur-canin.png)
+canin](../../assets/images/5-certificat-toiletteur-canin.png)
 
 Formation toiletteur canin : le **Certificat de Toiletteur Canin** est
 une certification dite R.N.C.P., inscrite au répertoire.
@@ -758,42 +758,59 @@ continue (formation pour adultes).**
 
 ### IMA du Pays de Montereau
 
-Château de Courbeton\
-77130 ST GERMAIN-LAVAL\
-Tél. : 01 64 79 27 20\
-Fax : 01 60 73 40 84\
+Château de Courbeton
+
+77130 ST GERMAIN-LAVAL
+
+Tél. : 01 64 79 27 20
+
+Fax : 01 60 73 40 84
+
 Email
-: [philippe.danton\@cma77.fr](mailto:philippe.danton@cma77.fr)
+: [philippe.danton@cma77.fr](mailto:philippe.danton@cma77.fr)
 
 ### CFBT -- Antenne La Ciotat
 
-5, rue Emile Delacour\
-13600 LA CIOTAT\
-Tél. : 04 42 08 48 30\
-Fax : 04 42 71 84 43\
+5, rue Emile Delacour
+
+13600 LA CIOTAT
+
+Tél. : 04 42 08 48 30
+
+Fax : 04 42 71 84 43
+
 Email
-: [esther.bezdjian\@cfbt-asso.com](mailto:esther.bezdjian@cfbt-asso.com)
+: [esther.bezdjian@cfbt-asso.com](mailto:esther.bezdjian@cfbt-asso.com)
 
 ### ACPM Est Provence
 
-Chemin Franca\
-Les Côtes du Plan\
-83190 OLLIOULES\
-Tél. : 04 94 63 35 68\
-Fax : 04 94 63 75 71\
+Chemin Franca
+
+Les Côtes du Plan
+
+83190 OLLIOULES
+
+Tél. : 04 94 63 35 68
+
+Fax : 04 94 63 75 71
+
 Email
-: [christelle.adda\@acpm.eu](mailto:christelle.adda@acpm.eu)
+: [christelle.adda@acpm.eu](mailto:christelle.adda@acpm.eu)
 
 ### [Audreco Formation](https://audreco.com?utm_source=formation+toiletteur+canin+net)
 
 37-39 avenue Ledru Rollin
+
 75012 PARIS
 
-
 Atelier de formation pratique
+
 16 rue du Château des Rentiers
+
 75013 PARIS
+
 Tél. : 01 83 64 05 99
+
 Email : [hello@audreco.com](mailto:hello@audreco.com)
 
 [Formation toiletteur canin](https://formation-toiletteur-canin.net) : aller plus loin !
@@ -811,7 +828,7 @@ Email : [hello@audreco.com](mailto:hello@audreco.com)
     [https://audreco.com](https://audreco.com?utm_source=formation+toiletteur+canin+net),
     onglet « FORMATIONS ».
 -   Consultez sur notre blogue : [Tout ce que vous avez toujours
-    cru savoir sur votre chien ou votre chat, et qui n\'est peut-être
+    cru savoir sur votre chien ou votre chat, et qui n'est peut-être
     pas vrai !](https://audreco.com/mon-chien/?utm_source=formation+toiletteur+canin+net)
 -   Consultez sur notre blogue : [Entreprendre dans les métiers de
     services auprès des animaux !
