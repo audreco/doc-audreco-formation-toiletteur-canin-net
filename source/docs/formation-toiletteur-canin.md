@@ -15,7 +15,7 @@ programmes ? Quelles méthodes ? Quels sont les points essentiels à
 observer ?**
 
 <a id="metier"></a>
-[Formation toiletteur canin : pour quel « métier » ?](/docs/formation-toioletteur-canin/#metier)
+[Formation toiletteur canin : pour quel « métier » ?](/docs/formation-toiletteur-canin/#metier)
 ---------------------------------------------------
 
 Pour bien répondre aux questions ci--dessus, ne pensez-vous pas qu'il
@@ -226,7 +226,7 @@ Formation toiletteur canin : le chat, les NAC, des sujets qu'il faudra
 impérativement aborder, théorie et pratique !
 
 <a id="general"></a>
-[Formation toilettage canin : généralités](/docs/formation-toioletteur-canin/#general)
+[Formation toilettage canin : généralités](/docs/formation-toiletteur-canin/#general)
 ----------------------------------------
 
 Une formation en toilettage canin doit vous permettre d'entrer dans les
@@ -256,7 +256,7 @@ travail de toilettage !
 Voyons cela dans le détail.
 
 <a id="ergonomie"></a>
-[Formation toilettage canin et ergonomie](/docs/formation-toioletteur-canin/#ergonomie)
+[Formation toilettage canin et ergonomie](/docs/formation-toiletteur-canin/#ergonomie)
 ---------------------------------------
 
 On peut définir l'ergonomie comme l'étude des gestes, des outils et des
@@ -349,7 +349,7 @@ Vous devrez aussi apprendre à choisir les éléments constitutifs d'un
 poste de travail optimisé du point de vue de l'ergonomie.
 
 <a id="zoocosmetologie"></a>
-[Formation toilettage canin et Zoocosmétologie](/docs/formation-toioletteur-canin/#zoocosmetologie)
+[Formation toilettage canin et Zoocosmétologie](/docs/formation-toiletteur-canin/#zoocosmetologie)
 ---------------------------------------------
 
 ### Physiologie de la peau et du pelage
@@ -396,7 +396,7 @@ d'action des airs à haute et à basse pression ; apprendre à optimiser
 son travail par l'utilisation rationnelle et complémentaire de ces airs.
 
 <a id="cynophilie"></a>
-[Formation toiletteur canin et cynophilie](/docs/formation-toioletteur-canin/#cynophilie)
+[Formation toiletteur canin et cynophilie](/docs/formation-toiletteur-canin/#cynophilie)
 -----------------------------------------
 
 ### Connaissance des standards de race et des patrons de toilettage
@@ -449,7 +449,7 @@ pour décrire et comprendre les standards, devront être parfaitement
 maîtrisées.
 
 <a id="esthetique"></a>
-[Formation toiletteur canin et esthétique](/docs/formation-toioletteur-canin/#esthetique)
+[Formation toiletteur canin et esthétique](/docs/formation-toiletteur-canin/#esthetique)
 ----------------------------------------
 
 Une évidence : le toilettage est un travail esthétique.
@@ -464,7 +464,7 @@ de toilettage. En effet, l'expérience montre que la réussite d'un beau
 toilettage impose l'acquisition préalable de cette capacité.
 
 <a id="gestion"></a>
-[Formation toiletteur canin : gestion et administration d'un lieu de production de toilettage](/docs/formation-toioletteur-canin/#gestion)
+[Formation toiletteur canin : gestion et administration d'un lieu de production de toilettage](/docs/formation-toiletteur-canin/#gestion)
 --------------------------------------------------------------------------------------------
 
 Est-il réellement nécessaire d'y insister ? Le travail du toilettage
@@ -479,7 +479,7 @@ La préparation à l'activité commerciale comprendra une initiation à la
 vente des produits et des services.
 
 <a id="comportement"></a>
-[Formation toiletteur canin : étude du comportement animal](/docs/formation-toioletteur-canin/#comportement)
+[Formation toiletteur canin : étude du comportement animal](/docs/formation-toiletteur-canin/#comportement)
 ---------------------------------------------------------
 
 Bien entendu, le toiletteur n'est pas un comportementaliste.
@@ -513,7 +513,7 @@ mais surtout, avec plus de plaisir. L'animal qui fait confiance à son
 toiletteur est pour ce dernier une grande source de satisfaction.
 
 <a id="pratique"></a>
-[Formation toiletteur canin et pratique du toilettage](/docs/formation-toioletteur-canin/#pratique)
+[Formation toiletteur canin et pratique du toilettage](/docs/formation-toiletteur-canin/#pratique)
 ----------------------------------------------------
 
 Le travail pratique aura été préparé par l'étude de la gestuelle des
@@ -547,7 +547,7 @@ formation des élèves et des stagiaires, des formateurs eux-mêmes sans
 objectif de production.
 
 <a id="centre-formation"></a>
-[Formation toiletteur canin : quel centre de formation ?](/docs/formation-toioletteur-canin/#centre-formation)
+[Formation toiletteur canin : quel centre de formation ?](/docs/formation-toiletteur-canin/#centre-formation)
 -------------------------------------------------------
 
 Beaucoup de solutions peuvent se présenter. Essayons un inventaire.
@@ -645,7 +645,7 @@ Formation toiletteur canin : la formation pratique dans un lieu
 « dédié »
 
 <a id="diplome"></a>
-[Formation toilettage canin et diplôme](/docs/formation-toioletteur-canin/#diplome)
+[Formation toilettage canin et diplôme](/docs/formation-toiletteur-canin/#diplome)
 -------------------------------------
 
 ### Diplôme et exercice du métier
@@ -731,7 +731,7 @@ conditions préalables :
     qualité (norme Afnor, par exemple).
 
 <a id="certificat"></a>
-[Formation toiletteur canin : le Certificat de Toiletteur canin](/docs/formation-toioletteur-canin/#certificat)
+[Formation toiletteur canin : le Certificat de Toiletteur canin](/docs/formation-toiletteur-canin/#certificat)
 --------------------------------------------------------------
 
 ![formation toiletteur canin : diplôme certificat toiletteur
@@ -753,7 +753,7 @@ ou d'une formation en apprentissage.**
 continue (formation pour adultes).**
 
 <a id="organismes"></a>
-[Formation toiletteur canin : liste et adresses des organismes préparant au Certificat de Toiletteur Canin](/docs/formation-toioletteur-canin/#organismes)
+[Formation toiletteur canin : liste et adresses des organismes préparant au Certificat de Toiletteur Canin](/docs/formation-toiletteur-canin/#organismes)
 ---------------------------------------------------------------------------------------------------------
 
 ### IMA du Pays de Montereau
