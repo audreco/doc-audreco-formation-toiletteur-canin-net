@@ -15,13 +15,11 @@
         
                 <h2 id="intro-powered-by-jigsaw" class="font-light mt-4">{{ $page->siteDescription }}</h2>
         
-                <p class="text-lg">Quelles formations en toilettage ? Quels programmes ?<br class="hidden sm:block">Quelles méthodes ? Quels sont les points essentiels à observer ? </p>
-        
                 <div class="flex my-10 justify-center">
                 <!-- <div class="flex my-10"> -->
-                    <a href="/docs/formation-toiletteur-canin" title="{{ $page->siteName }} getting started" class="bg-blue-500 hover:bg-blue-600 font-normal text-white hover:text-white rounded mr-4 py-2 px-6">Formation Toiletteur Canin</a>
+                    <a href="/docs/formation-toiletteur-canin" title="{{ $page->siteName }} (école de toilettage)" class="bg-blue-500 hover:bg-blue-600 font-normal text-white hover:text-white rounded mr-4 py-2 px-6">Formation Toiletteur Canin</a>
         
-                    <a href="https://audreco.com?utm_source=formation+toiletteur+canin+net" title="Jigsaw by Tighten" class="bg-gray-400 hover:bg-gray-600 text-blue-900 font-normal hover:text-white rounded py-2 px-6">Site principal Audreco</a>
+                    <a href="https://audreco.com?utm_source=formation+toiletteur+canin+net" title="À l'École des Métiers de l'Animal de Compagnie" class="bg-gray-400 hover:bg-gray-600 text-blue-900 font-normal hover:text-white rounded py-2 px-6">Site principal Audreco</a>
                 </div>
             </div>
         
@@ -39,8 +37,8 @@
 
             <h3 id="intro-laravel" class="text-2xl text-blue-900 mb-0">Recevez une étude gratuite</h3>
 
-            <p>Téléchargez nos études gratuites sur : <a href="https://audreco.com">Audreco</a> onglet "GRATUIT". <br>
-                Vous pouvez également consuler nos services, onglet "SERVICES"<br> ainsi que nos formations longues et courtes, onglet "FORMATIONS".
+            <p>Téléchargez nos études gratuites sur : <a href="https://audreco.com?utm_source=ecole+toiletteur+canin+net">Audreco</a> onglet "GRATUIT". <br>
+                Vous pouvez également consuler nos services, onglet "SERVICES"<br> ainsi que nos formations de toiletteur canin, longues ou courtes, onglet "FORMATIONS".
             </p>
         </div>
 
