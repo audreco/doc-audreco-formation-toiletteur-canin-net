@@ -1,6 +1,6 @@
 ---
 title: Formation Toiletteur Canin - Tout savoir sur la formation de toiletteur canin
-description: Formation Toiletteur Canin - Tout savoir sur la formation de toiletteur canin : quelles formations en toilettage canin ? quels programmes ? quelles méthodes ? quels sont les points essentiels à observer ?
+description: "Formation Toiletteur Canin - Tout savoir sur la formation de toiletteur canin : quelles formations en toilettage canin ? quels programmes ? quelles méthodes ? quels sont les points essentiels à observer ?"
 extends: _layouts.documentation
 section: content
 ---
