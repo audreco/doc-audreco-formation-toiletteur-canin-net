@@ -1,10 +1,10 @@
 <?php
 
 return [
-    'baseUrl' => '',
-    'production' => false,
+    'baseUrl' => 'https://formation-toiletteur-canin.net',
+    'production' => true,
     'siteName' => 'Formation Toiletteur Canin',
-    'siteDescription' => 'Tout sur la formation au toilettage canin',
+    'siteDescription' => 'Tout sur la formation de toiletteur canin',
 
     // Algolia DocSearch credentials
     'docsearchApiKey' => '',
