@@ -13,8 +13,12 @@
         <meta property="og:image" content="/assets/img/logo.png"/>
         <meta property="og:type" content="website"/>
 
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="@Audreco_online" />
+        <meta name="twitter:title" content="Formation toiletteur canin" />
+        <meta name="twitter:description" content="Tout savoir sur la formation de toiletteur canin" />
+        <meta name="twitter:image" content="/assets/img/logo.png" />
         <meta name="twitter:image:alt" content="{{ $page->siteName }}">
-        <meta name="twitter:card" content="summary_large_image">
 
         @if ($page->docsearchApiKey && $page->docsearchIndexName)
             <meta name="generator" content="tighten_jigsaw_doc">
@@ -24,6 +28,7 @@
 
         <link rel="home" href="{{ $page->baseUrl }}">
         <link rel="icon" href="/favicon.ico">
+        <link rel="canonical" href="https://formation-toiletteur-canin.net/" />
 
         @stack('meta')
 
@@ -48,15 +53,11 @@
     </head>
 
     <body class="flex flex-col justify-between min-h-screen bg-gray-100 text-gray-800 leading-normal font-sans">
-        <header class="flex items-center shadow bg-white border-b h-24 py-4" role="banner" style="position: fixed; top: 0; left: 0; width: 100%;">
-        <!-- <header class="flex items-center shadow bg-white border-b h-24 mb-8 py-4" role="banner"> -->
+        <header class="flex items-center shadow bg-white border-b h-24 py-4 fixed top-0 left-0 w-full" role="banner">
             <div class="container flex items-center max-w-8xl mx-auto px-4 lg:px-8">
                 <div class="flex items-center">
                     <a href="/" title="{{ $page->siteName }} home" class="inline-flex items-center">
                         <img class="h-8 md:h-10 mr-3" src="/assets/img/tmp-img/audreco-logo.jpg" alt="{{ $page->siteName }} logo" />
-
-                        
-                        <!-- <h1 class="text-lg md:text-2xl text-blue-900 font-semibold hover:text-blue-600 my-0 pr-4">{{ $page->siteName }}</h1> -->
                     </a>
                     
                 </div>
@@ -66,11 +67,6 @@
                         <h1 class="text-lg md:text-2xl font-semibold hover:text-blue-600 my-0 pr-4 text-right">{{ $page->siteName }}</h1>
                     </a>
                 </div>
-                <!-- <div class="flex flex-1 justify-end items-center text-right md:pl-10">
-                    @if ($page->docsearchApiKey && $page->docsearchIndexName)
-                        @include('_nav.search-input')
-                    @endif
-                </div> -->
             </div>
 
             @yield('nav-toggle')
@@ -81,11 +77,12 @@
         </main>
 
         <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
+        <noscript>Votre navigateur ne supporte pas JavaScript !</noscript>
 
         @stack('scripts')
 
         <footer class="bg-white text-center text-sm mt-12 py-4" role="contentinfo">
-            <p><a href="https://formation-toiletteur-canin.net">Formation Toiletteur Canin</a> est un site de <a href="https://audreco.com?utm_source=formation+toiletteur+canin+net" target="_blank">l'École des Métiers de l'Animal de Compagnie</a><br />&copy; <a href="https://bluerock.ie?utm_source=formation+toiletteur+canin+net" title="BlueRock">BlueRock</a> {{ date('Y') }}. Built with <a href="http://jigsaw.tighten.co" title="Jigsaw by Tighten">Jigsaw</a> and <a href="https://tailwindcss.com" title="Tailwind CSS, a utility-first CSS framework">Tailwind CSS</a>.</p>
+            <p><a href="https://formation-toiletteur-canin.net">Formation Toiletteur Canin</a> est un site de <a href="https://audreco.com/?utm_source=formation+toiletteur+canin+net" target="_blank">l'École des Métiers de l'Animal de Compagnie</a><br />&copy; <a href="https://bluerock.ie/?utm_source=formation+toiletteur+canin+net" title="BlueRock">BlueRock</a> {{ date('Y') }}. Built with <a href="http://jigsaw.tighten.co" title="Jigsaw by Tighten">Jigsaw</a> and <a href="https://tailwindcss.com" title="Tailwind CSS, a utility-first CSS framework">Tailwind CSS</a>.</p>
         </footer>
     </body>
 </html>

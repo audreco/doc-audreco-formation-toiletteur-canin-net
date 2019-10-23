@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://formation-toiletteur-canin.net/sitemap.xml

@@ -11,3 +11,20 @@
 @import 'search';
 
 @tailwind utilities;
+
+.h-screen-60 {
+	height: 60vh;
+}
+
+.bg-image-header {
+	background-image: url(/assets/img/tmp-img/shutterstock_280679357.jpg);
+	background-position: 50% 30%;
+}
+
+.top-100 {
+	top: 100px;
+}
+
+.m-100 {
+	margin: 100px auto auto auto;
+}

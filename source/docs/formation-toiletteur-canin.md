@@ -797,7 +797,7 @@ Fax : 04 94 63 75 71
 Email
 : [christelle.adda@acpm.eu](mailto:christelle.adda@acpm.eu)
 
-### [Audreco Formation](https://audreco.com?utm_source=formation+toiletteur+canin+net)
+### [Audreco Formation](https://audreco.com/?utm_source=formation+toiletteur+canin+net)
 
 37-39 avenue Ledru Rollin
 
@@ -813,19 +813,20 @@ Tél. : 01 83 64 05 99
 
 Email : [hello@audreco.com](mailto:hello@audreco.com)
 
-[Formation toiletteur canin](https://formation-toiletteur-canin.net) : aller plus loin !
+<a id="toilettage-aller-plus-loin"></a>
+[Formation toiletteur canin](https://formation-toiletteur-canin.net) [: aller plus loin !](/docs/formation-toiletteur-canin/#toilettage-aller-plus-loin)
 ----------------------------------------------------------------------------------------
 
 -   Téléchargez nos études gratuites :
-    [https://audreco.com](https://audreco.com?utm_source=formation+toiletteur+canin+net),
+    [https://audreco.com](https://audreco.com/?utm_source=formation+toiletteur+canin+net),
     onglet « GRATUIT »,
 -   Faites un petit tour dans notre librairie :
-    [https://librairie.audreco.com](https://librairie.audreco.com?utm_source=formation+toiletteur+canin+net),
+    [https://librairie.audreco.com](https://librairie.audreco.com/?utm_source=formation+toiletteur+canin+net),
 -   Consultez nos services :
-    [https://audreco.com](https://audreco.com?utm_source=formation+toiletteur+canin+net),
+    [https://audreco.com](https://audreco.com/?utm_source=formation+toiletteur+canin+net),
     onglet « SERVICES »,
 -   Consultez nos formations longues et courtes :
-    [https://audreco.com](https://audreco.com?utm_source=formation+toiletteur+canin+net),
+    [https://audreco.com](https://audreco.com/?utm_source=formation+toiletteur+canin+net),
     onglet « FORMATIONS ».
 -   Consultez sur notre blogue : [Tout ce que vous avez toujours
     cru savoir sur votre chien ou votre chat, et qui n'est peut-être
@@ -836,4 +837,4 @@ Email : [hello@audreco.com](mailto:hello@audreco.com)
 
 Vous avez [un projet de Formation Toiletteur Canin ? Rendez-vous sur
 notre site principal
-Audreco.com](https://audreco.com?utm_source=formation+toiletteur+canin+net)
+Audreco.com](https://audreco.com/?utm_source=formation+toiletteur+canin+net)
