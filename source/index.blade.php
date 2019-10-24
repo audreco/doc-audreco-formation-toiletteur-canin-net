@@ -44,10 +44,18 @@
         </div>
 
         <div itemscope itemptype="https://schema.org/LocalBusiness" class="max-w-xl lg:max-w-7xl mx-auto px-4 pb-12 lg:pb-20 flex flex-col items-center text-center">
-            <img src="/assets/img/tmp-img/basic_spread_text_bookmark.svg" class="h-12 w-12" alt="spreaad text book icon">
+            <img src="/assets/img/tmp-img/basic_spread_text_bookmark.svg" class="h-12 w-12" alt="book icon">
             <h3 id="intro-mix" class="text-2xl text-blue-900 mb-0">Faites un petit tour dans notre librairie</h3>
 
             <p><a itemprop="url" href="https://librairie.audreco.com/?utm_source=formation+toiletteur+canin+net">Des livres sur les animaux et le toilettage ! Accéder à la librairie</a>
+            </p>
+        </div>
+
+        <div itemscope itemptype="https://schema.org/EducationalOrganization" class="max-w-xl lg:max-w-7xl mx-auto px-4 pb-12 lg:pb-20 flex flex-col items-center text-center">
+            <img src="/assets/img/tmp-img/basic_magnifier.svg" class="h-12 w-12" alt="magnifier icon">
+            <h3 id="intro-mix" class="text-2xl text-blue-900 mb-0">Visitez notre site : Ecole de toilettage</h3>
+
+            <p><a itemprop="url" href="https://ecole-de-toilettage.com/?utm_source=formation+toiletteur+canin+net">Le guide du métier de toiletteur canin, le marché et ses attentes, les qualités du toiletteur, le budget, les formes juridiques, la règlementation...</a>
             </p>
         </div>
     </div>
