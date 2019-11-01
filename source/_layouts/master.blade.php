@@ -82,7 +82,7 @@
         @stack('scripts')
 
         <footer class="bg-white text-center text-sm mt-12 py-4" role="contentinfo">
-            <p><a href="https://formation-toiletteur-canin.net">Formation Toiletteur Canin</a> est un site de <a href="https://audreco.com/?utm_source=formation+toiletteur+canin+net" target="_blank">l'École des Métiers de l'Animal de Compagnie</a><br />&copy; <a href="https://bluerock.ie/?utm_source=formation+toiletteur+canin+net" title="BlueRock">BlueRock</a> {{ date('Y') }}. Built with <a href="http://jigsaw.tighten.co" title="Jigsaw by Tighten">Jigsaw</a> and <a href="https://tailwindcss.com" title="Tailwind CSS, a utility-first CSS framework">Tailwind CSS</a>.</p>
+            <p><a href="https://formation-toiletteur-canin.net">Formation Toiletteur Canin</a> est un site de <a href="https://audreco.com/?utm_source=formation+toiletteur+canin+net" target="_blank">l'École des Métiers de l'Animal de Compagnie</a><br />&copy; <a href="https://bluerock.ie/?utm_source=formation+toiletteur+canin+net" title="BlueRock">BlueRock</a> {{ date('Y') }}. Built with <a href="http://jigsaw.tighten.co" title="Jigsaw by Tighten">Jigsaw</a> and <a href="https://tailwindcss.com" title="Tailwind CSS, a utility-first CSS framework">Tailwind CSS</a>. <a href="https://github.com/audreco/doc-audreco-formation-toiletteur-canin-net"><></a></p>
         </footer>
     </body>
 </html>
